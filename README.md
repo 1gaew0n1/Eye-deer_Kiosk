@@ -33,4 +33,22 @@
 - [ ] 키오스크 구현
 - [ ] 음성 안내 제작
 
+## 사용 법
+
+**프로젝트 실행하는 법 (일반 사용자)**
+
+- Python 3.11.8 (3.12 이상 사용 시 MediaPipe와 호환 불가)
+- `pip install requirements.txt` 로 필수 목록 설치
+- `py main.py` 혹은 `py3 main.py` (Unix용) 으로 실행하기
+
+**프로젝트 기여하는 법 (개발자)**
+
+1. GitHub에서 리포지토리를 포크하고 로컬 머신에 복제
+2. 기여를 위한 새 브랜치를 만들기
+3. 변경하고 커밋
+4. 변경 사항을 포크된 저장소에 푸시
+5. 원래 리포지토리에서 풀 리퀘을 열기
+6. 귀하의 기여에 대한 자세한 설명을 작성
+7. 관리자가 풀 요청을 검토하고 병합할 때까지 ㄱㄷ
+
 | [노션 페이지](https://1gaew0n1.notion.site/Eye-deer-Kiosk-fe65a569e15f4c8c8bdf7ed32d766946?pvs=25) | [대회 주최 사이트](https://www.happydreamjob.kr/board/board_view.php?bbs_id=notice&kbbs_doc_num=62) |
